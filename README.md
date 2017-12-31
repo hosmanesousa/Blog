@@ -16,9 +16,9 @@ Edit/Remove pictures on the blog
 Javascript, Express, Mongoose, MongoDB
 
 
-Usage
+## Usage
 
-Installation
+## Installation
 
 Loginapp requires Node.js v4+ to run.
 
