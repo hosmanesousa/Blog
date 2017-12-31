@@ -20,7 +20,7 @@ Javascript, Express, Mongoose, MongoDB
 
 ## Installation
 
-Loginapp requires Node.js v4+ to run.
+Blog requires Node.js v4+ to run.
 
 $ npm install
 $ npm start
